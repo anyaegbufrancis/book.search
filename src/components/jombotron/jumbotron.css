@@ -1,0 +1,7 @@
+.jumbotron {
+    background-image: url("../../util/Img/search2.png") ;
+    background-size: cover;
+    width: 105%;
+    height: 14rem;
+    margin-top: 2rem;
+}

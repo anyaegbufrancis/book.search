@@ -1,0 +1,14 @@
+.search {
+    font-size: 1.5rem;
+    color: white;    
+}
+
+.search-search {
+    border-right: solid white 2px;
+    padding-right: 5rem !important;
+}
+.search-saved {
+    border-left: solid white 2px;
+    margin-right: 5rem;
+    padding-left: 3rem !important;
+}

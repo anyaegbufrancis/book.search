@@ -1,0 +1,45 @@
+.search-area {
+    font-size: 2rem;;
+    text-align: center;
+    color: rgb(37, 2, 2) !important;
+}
+.text-muted {
+    margin: 1.5rem;
+    font-size: 1.5rem;
+    font-style: italic;
+}
+
+.search-box {
+    height: 3rem;
+    border: rgb(88, 63, 63) solid ;
+}
+
+.button {
+    font-size: 2rem;
+    width: 15rem;
+    margin-bottom: 2rem;    
+    margin-top: 1rem
+}
+.thumbnail {
+    float: left;
+    padding-right: 3%;
+    padding-bottom: 1.5%;
+}
+.text-found {
+    color: green;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+.cards {
+    margin-bottom: 1.5rem;
+    position: relative;
+}
+.button-post-search {
+    position: absolute;
+    right:    3%;
+    bottom:   5%;
+}
+.description {
+    margin-bottom: 6%;
+}
+
